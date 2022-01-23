@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.bg-primary {
+  background-color: #0b69ff;
+  border: none;
+  color: white;
+  height: 34px;
+  padding-top: 5px;
+  width: 96%;
+  border-radius: 5px;
+}
+.order-detail {
+  color: #616e7c;
+  font-weight: normal;
+  font-size: 20px;
+}
+.span-style {
+  color: #171f46;
+  font-weight: bold;
+}
+.order-item-number {
+  font-size: 14px;
+  color: #616e7c;
+}
